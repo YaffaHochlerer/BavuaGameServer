@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b3cf86803d2d4944ab812a01729f7c9a" Name="Diagram1">
+        <EntityTypeShape EntityType="BavuaModel.Cards" Width="1.5" PointX="3" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BavuaModel.Cards_in_cash" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BavuaModel.Cashes" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BavuaModel.Cashes_in_game" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BavuaModel.Game_board" Width="1.5" PointX="0.75" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BavuaModel.Save_games" Width="1.5" PointX="3" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BavuaModel.Summits" Width="1.5" PointX="3" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BavuaModel.Users" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <AssociationConnector Association="BavuaModel.FK__Cards_in___cards__2B3F6F97" ManuallyRouted="false" />
+        <AssociationConnector Association="BavuaModel.FK__Cards_in___cards__2A4B4B5E" ManuallyRouted="false" />
+        <AssociationConnector Association="BavuaModel.FK__Cashes__cash_use__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="BavuaModel.FK__Cashes_in__cashe__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="BavuaModel.FK__Cashes_in__cashe__35BCFE0A" ManuallyRouted="false" />
+        <AssociationConnector Association="BavuaModel.FK__Save_game__save___300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="BavuaModel.FK__Summits__summit___32E0915F" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

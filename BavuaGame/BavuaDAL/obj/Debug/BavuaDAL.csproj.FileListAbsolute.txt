@@ -1,0 +1,106 @@
+F:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll.config
+F:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll
+F:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.pdb
+F:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.dll
+F:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.xml
+F:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CoreCompileInputs.cache
+F:\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CopyComplete
+F:\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.dll
+F:\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.pdb
+F:\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csprojAssemblyReference.cache
+G:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll.config
+G:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll
+G:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.pdb
+G:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.dll
+G:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.xml
+G:\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csprojAssemblyReference.cache
+G:\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CoreCompileInputs.cache
+G:\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CopyComplete
+G:\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.dll
+G:\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.pdb
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll.config
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.pdb
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.dll
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.xml
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csprojAssemblyReference.cache
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CoreCompileInputs.cache
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CopyComplete
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.dll
+G:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.pdb
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll.config
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.pdb
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.dll
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.xml
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CoreCompileInputs.cache
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CopyComplete
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.dll
+F:\גיבוי\פרוייקט\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.pdb
+D:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll.config
+D:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll
+D:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.pdb
+D:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.dll
+D:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.xml
+D:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csprojAssemblyReference.cache
+D:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CoreCompileInputs.cache
+D:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CopyComplete
+D:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.dll
+D:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.pdb
+F:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll.config
+F:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll
+F:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.pdb
+F:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.dll
+F:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.xml
+F:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CoreCompileInputs.cache
+F:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CopyComplete
+F:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.dll
+F:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.pdb
+F:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csprojAssemblyReference.cache
+E:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll.config
+E:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll
+E:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.pdb
+E:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.dll
+E:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.xml
+E:\גיבוי\בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CoreCompileInputs.cache
+E:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CopyComplete
+E:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.dll
+E:\גיבוי\בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll.config
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CopyComplete
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll.config
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\bin\Debug\BavuaDAL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaDAL\obj\Debug\BavuaDAL.csproj.CopyComplete

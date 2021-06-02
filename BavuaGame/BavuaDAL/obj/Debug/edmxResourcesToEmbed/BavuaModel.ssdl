@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BavuaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cards">
+    <Key>
+      <PropertyRef Name="card_code" />
+    </Key>
+    <Property Name="card_code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="card_value_location0" Type="int" Nullable="false" />
+    <Property Name="card_value_location1" Type="int" Nullable="false" />
+    <Property Name="card_value_location2" Type="int" Nullable="false" />
+    <Property Name="card_value_location3" Type="int" Nullable="false" />
+    <Property Name="card_value_location4" Type="int" Nullable="false" />
+    <Property Name="card_value_location5" Type="int" Nullable="false" />
+    <Property Name="card_value_location6" Type="int" Nullable="false" />
+    <Property Name="card_value_location7" Type="int" Nullable="false" />
+    <Property Name="card_value_location8" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cards_in_cash">
+    <Key>
+      <PropertyRef Name="cards_in_cash_code" />
+    </Key>
+    <Property Name="cards_in_cash_code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cards_in_cash_cash_code" Type="int" Nullable="false" />
+    <Property Name="cards_in_cash_card_code" Type="int" Nullable="false" />
+    <Property Name="cards_in_kupa_isWin" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cashes">
+    <Key>
+      <PropertyRef Name="cash_code" />
+    </Key>
+    <Property Name="cash_code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cash_user_code" Type="int" Nullable="false" />
+    <Property Name="cash_Is_my_queue" Type="bit" Nullable="false" />
+    <Property Name="cash_number_clues" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cashes_in_game">
+    <Key>
+      <PropertyRef Name="cashes_in_game_code" />
+    </Key>
+    <Property Name="cashes_in_game_code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cashes_in_game_game_code" Type="int" Nullable="false" />
+    <Property Name="cashes_in_game_cash_code" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Game_board">
+    <Key>
+      <PropertyRef Name="game_board_code" />
+    </Key>
+    <Property Name="game_board_code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="game_board_value_location0" Type="int" Nullable="false" />
+    <Property Name="game_board_value_location1" Type="int" Nullable="false" />
+    <Property Name="game_board_value_location2" Type="int" Nullable="false" />
+    <Property Name="game_board_value_location3" Type="int" Nullable="false" />
+    <Property Name="game_board_value_location4" Type="int" Nullable="false" />
+    <Property Name="game_board_value_location5" Type="int" Nullable="false" />
+    <Property Name="game_board_value_location6" Type="int" Nullable="false" />
+    <Property Name="game_board_value_location7" Type="int" Nullable="false" />
+    <Property Name="game_board_value_location8" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Save_games">
+    <Key>
+      <PropertyRef Name="save_game_code" />
+    </Key>
+    <Property Name="save_game_code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="save_game_board_code" Type="int" Nullable="false" />
+    <Property Name="save_game_date" Type="datetime" Nullable="false" />
+    <Property Name="save_game_isTimer" Type="bit" Nullable="false" />
+    <Property Name="save_game_timePoint" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Summits">
+    <Key>
+      <PropertyRef Name="summit_code" />
+    </Key>
+    <Property Name="summit_code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="summit_user_code" Type="int" Nullable="false" />
+    <Property Name="summit_against_user_code" Type="int" Nullable="false" />
+    <Property Name="summit_number_cards" Type="int" Nullable="false" />
+    <Property Name="summit_date" Type="datetime" Nullable="false" />
+    <Property Name="summit_isTimer" Type="bit" Nullable="false" />
+    <Property Name="summit_duration" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="user_code" />
+    </Key>
+    <Property Name="user_code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_Fname" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="user_password" Type="nchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Cards_in___cards__173876EA">
+    <End Role="Cashes" Type="Self.Cashes" Multiplicity="1" />
+    <End Role="Cards_in_cash" Type="Self.Cards_in_cash" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cashes">
+        <PropertyRef Name="cash_code" />
+      </Principal>
+      <Dependent Role="Cards_in_cash">
+        <PropertyRef Name="cards_in_cash_cash_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Cards_in___cards__182C9B23">
+    <End Role="Cards" Type="Self.Cards" Multiplicity="1" />
+    <End Role="Cards_in_cash" Type="Self.Cards_in_cash" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cards">
+        <PropertyRef Name="card_code" />
+      </Principal>
+      <Dependent Role="Cards_in_cash">
+        <PropertyRef Name="cards_in_cash_card_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Cashes__cash_use__1273C1CD">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Cashes" Type="Self.Cashes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="user_code" />
+      </Principal>
+      <Dependent Role="Cashes">
+        <PropertyRef Name="cash_user_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Cashes_in__cashe__22AA2996">
+    <End Role="Save_games" Type="Self.Save_games" Multiplicity="1" />
+    <End Role="Cashes_in_game" Type="Self.Cashes_in_game" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Save_games">
+        <PropertyRef Name="save_game_code" />
+      </Principal>
+      <Dependent Role="Cashes_in_game">
+        <PropertyRef Name="cashes_in_game_game_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Cashes_in__cashe__239E4DCF">
+    <End Role="Cashes" Type="Self.Cashes" Multiplicity="1" />
+    <End Role="Cashes_in_game" Type="Self.Cashes_in_game" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cashes">
+        <PropertyRef Name="cash_code" />
+      </Principal>
+      <Dependent Role="Cashes_in_game">
+        <PropertyRef Name="cashes_in_game_cash_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Save_game__save___1CF15040">
+    <End Role="Game_board" Type="Self.Game_board" Multiplicity="1" />
+    <End Role="Save_games" Type="Self.Save_games" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Game_board">
+        <PropertyRef Name="game_board_code" />
+      </Principal>
+      <Dependent Role="Save_games">
+        <PropertyRef Name="save_game_board_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Summits__summit___1FCDBCEB">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Summits" Type="Self.Summits" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="user_code" />
+      </Principal>
+      <Dependent Role="Summits">
+        <PropertyRef Name="summit_user_code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BavuaModelStoreContainer">
+    <EntitySet Name="Cards" EntityType="Self.Cards" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cards_in_cash" EntityType="Self.Cards_in_cash" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cashes" EntityType="Self.Cashes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cashes_in_game" EntityType="Self.Cashes_in_game" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Game_board" EntityType="Self.Game_board" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Save_games" EntityType="Self.Save_games" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Summits" EntityType="Self.Summits" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Cards_in___cards__173876EA" Association="Self.FK__Cards_in___cards__173876EA">
+      <End Role="Cashes" EntitySet="Cashes" />
+      <End Role="Cards_in_cash" EntitySet="Cards_in_cash" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Cards_in___cards__182C9B23" Association="Self.FK__Cards_in___cards__182C9B23">
+      <End Role="Cards" EntitySet="Cards" />
+      <End Role="Cards_in_cash" EntitySet="Cards_in_cash" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Cashes__cash_use__1273C1CD" Association="Self.FK__Cashes__cash_use__1273C1CD">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Cashes" EntitySet="Cashes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Cashes_in__cashe__22AA2996" Association="Self.FK__Cashes_in__cashe__22AA2996">
+      <End Role="Save_games" EntitySet="Save_games" />
+      <End Role="Cashes_in_game" EntitySet="Cashes_in_game" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Cashes_in__cashe__239E4DCF" Association="Self.FK__Cashes_in__cashe__239E4DCF">
+      <End Role="Cashes" EntitySet="Cashes" />
+      <End Role="Cashes_in_game" EntitySet="Cashes_in_game" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Save_game__save___1CF15040" Association="Self.FK__Save_game__save___1CF15040">
+      <End Role="Game_board" EntitySet="Game_board" />
+      <End Role="Save_games" EntitySet="Save_games" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Summits__summit___1FCDBCEB" Association="Self.FK__Summits__summit___1FCDBCEB">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Summits" EntitySet="Summits" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

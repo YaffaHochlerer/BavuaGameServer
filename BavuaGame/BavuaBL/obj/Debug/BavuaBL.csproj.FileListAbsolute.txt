@@ -1,0 +1,72 @@
+F:\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csprojAssemblyReference.cache
+F:\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CoreCompileInputs.cache
+G:\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csprojAssemblyReference.cache
+G:\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CoreCompileInputs.cache
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\BavuaBL.dll
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\BavuaBL.pdb
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.dll
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\EntityFramework.dll
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.pdb
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.dll.config
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\EntityFramework.xml
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csprojAssemblyReference.cache
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CoreCompileInputs.cache
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CopyComplete
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.dll
+G:\גיבוי\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.pdb
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\BavuaBL.dll
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\BavuaBL.pdb
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.dll
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\EntityFramework.dll
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.pdb
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.dll.config
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\bin\Debug\EntityFramework.xml
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csprojAssemblyReference.cache
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CoreCompileInputs.cache
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CopyComplete
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.dll
+F:\גיבוי\פרוייקט\BavuaGame\BavuaBL\obj\Debug\BavuaBL.pdb
+D:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csprojAssemblyReference.cache
+D:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CoreCompileInputs.cache
+F:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csprojAssemblyReference.cache
+F:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CoreCompileInputs.cache
+F:\גיבוי\בית\BavuaGame\BavuaBL\bin\Debug\BavuaBL.dll
+F:\גיבוי\בית\BavuaGame\BavuaBL\bin\Debug\BavuaBL.pdb
+F:\גיבוי\בית\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.dll
+F:\גיבוי\בית\BavuaGame\BavuaBL\bin\Debug\EntityFramework.dll
+F:\גיבוי\בית\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.pdb
+F:\גיבוי\בית\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.dll.config
+F:\גיבוי\בית\BavuaGame\BavuaBL\bin\Debug\EntityFramework.xml
+F:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CopyComplete
+F:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.dll
+F:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.pdb
+E:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csprojAssemblyReference.cache
+E:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CoreCompileInputs.cache
+E:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.dll
+E:\גיבוי\בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.pdb
+E:\גיבוי\03 בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csprojAssemblyReference.cache
+E:\גיבוי\03 בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\bin\Debug\BavuaBL.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\bin\Debug\BavuaBL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.dll.config
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CopyComplete
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\03 בית\BavuaGame\BavuaBL\obj\Debug\BavuaBL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\obj\Debug\BavuaBL.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\obj\Debug\BavuaBL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\bin\Debug\BavuaBL.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\bin\Debug\BavuaBL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.pdb
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\bin\Debug\BavuaDAL.dll.config
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\יפה הוכלרר\גיבוי\04 סמינר\BavuaGame\BavuaBL\obj\Debug\BavuaBL.csproj.CopyComplete
